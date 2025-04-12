@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+8KuStQ1lM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vrush\\OneDrive\\Desktop\\ERP\\ERP-System\\ERPSystem.API\\ERPSystem.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vrush\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\vrush\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
